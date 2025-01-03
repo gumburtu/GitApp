@@ -4,5 +4,8 @@ public class Runner {
         //versiyon 1
         System.out.println("Degisiklik 1.");
 
+        //degisiklik yaptim versiyin 2
+        System.out.println("Degisiklik 2.");
+
     }
 }
