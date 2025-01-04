@@ -9,5 +9,7 @@ public class Runner {
 
         //degisiklik yaptim versiyin 3
         System.out.println("Degisiklik 3.");
+        System.out.println("Degisiklik 3.");
+        System.out.println("Degisiklik 3.");
     }
 }
