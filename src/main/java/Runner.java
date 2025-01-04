@@ -13,5 +13,7 @@ public class Runner {
         System.out.println("Degisiklik 3.");
         System.out.println("Degisiklik 3.");
         System.out.println("Degisiklik 3.");
+
+        //github'da degisiklik yaptim.
     }
 }
