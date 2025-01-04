@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Degisiklik 2.");
         System.out.println("Degisiklik 3.");
         System.out.println("Degisiklik 4.");
+        System.out.println("Degisiklik 4.");
+        System.out.println("Degisiklik 4.");
     }
 }
