@@ -5,7 +5,7 @@ public class Runner {
         System.out.println("Degisiklik 1.");
         System.out.println("Degisiklik 1.");
         System.out.println("Degisiklik 1.");
-
+        System.out.println("Degisiklik 1.");
 
     }
 }
